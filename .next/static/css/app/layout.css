@@ -1797,7 +1797,7 @@ input[type='number']::-webkit-outer-spin-button {
 }
 
 /*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[2].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[12].oneOf[2].use[2]!./node_modules/next/font/google/target.css?{"path":"app/ui/fonts.ts","import":"Lusitana","arguments":[{"weight":"400","subsets":["latin"]}],"variableName":"lustiana"} ***!
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[2].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[12].oneOf[2].use[2]!./node_modules/next/font/google/target.css?{"path":"app/ui/fonts.ts","import":"Lusitana","arguments":[{"weight":"400","subsets":["latin"]}],"variableName":"lusitana"} ***!
   \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /* latin */
 @font-face {
